@@ -1,7 +1,7 @@
 
 ### Oi, eu su Beatriz Câmara ^^
 
-- 🌱Estudando: Javascript
+- 🌱Estudando: Elixir
 - 😄 Pronouns: Bia
 <div>
   <a href="https://github.com/beatrizslcam">
