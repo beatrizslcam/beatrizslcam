@@ -1,6 +1,6 @@
 
 ### Oi, eu su Beatriz Câmara ^^
 
-- 🌱Estudando: Elixir
+- 🌱Estudando: Elixir e Go
 
 
